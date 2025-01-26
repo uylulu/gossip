@@ -9,7 +9,11 @@ Follow these steps to set up and run the application:
    ```bash
    cd backend
    ```
-2. Start the backend server:
+2. Install all Go dependencies:
+   ```bash
+   go mod tidy
+   ```
+3. Start the backend server:
    ```bash
    go run main.go
    ```
@@ -19,7 +23,11 @@ Follow these steps to set up and run the application:
    ```bash
    cd frontend
    ```
-2. Start the frontend development server:
+2. Install all npm dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the frontend development server:
    ```bash
    npm run dev
    ```
