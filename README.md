@@ -34,3 +34,5 @@ Follow these steps to set up and run the application:
 
 ### Access the Application
 Open your browser and go to [http://localhost:5173](http://localhost:5173) to enjoy Gossip with Golang!
+
+### Link to deployed application: https://zingy-chimera-236feb.netlify.app/
