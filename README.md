@@ -11,7 +11,7 @@ Follow these steps to set up and run the application:
    ```
 2. Install all Go dependencies:
    ```bash
-   go mod tidy
+   go mod download
    ```
 3. Start the backend server:
    ```bash
