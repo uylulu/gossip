@@ -1,4 +1,4 @@
-# Gossip with Golang - User Manual
+# Gossip with Golang - User Manual, Student DO TRONG UY, Student number: A0305756Y
 
 ## Getting Started
 
